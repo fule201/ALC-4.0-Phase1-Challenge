@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC4_0_Phase1_Challenge</string>
+    <string name="profile_activity_name">My Profile</string>
+    <string name="about_activity_name">About ALC</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="my_name">Fredy Amon</string>
+    <string name="country">Country: Tanzania</string>
+    <string name="email">Email: fwamon@gmail.com</string>
+    <string name="phone_number">Phone number: +255762296444</string>
+    <string name="slack_name">Slack username: fule</string>
+    <string name="track">Track: Android</string>
+</resources>
